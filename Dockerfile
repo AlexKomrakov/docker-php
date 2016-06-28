@@ -1,4 +1,4 @@
-FROM php:5.6.23-fpm
+FROM php:5.6.23-apache
 
 RUN apt-get update
 
